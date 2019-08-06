@@ -1,2 +1,3 @@
 hot fix issue 53
+- fix by Minh Le
 -fixed issue 53 by Duong Le
